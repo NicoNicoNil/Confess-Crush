@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Có ngày dài mang tên chờ đợi
                 Có nổi nhớ mang tên chờ mong
                 Có deadline đang dí HR sang năm
-                Có CBĐ vẫn luôn chực chờ mọi người ,
+                Có CBĐ vẫn luôn chực chờ mọi người`,
     btnIntro: '^^ehe^^',
     title: 'Phải chăng vào HR là sai lầm 🥰',
     desc: 'Phải chăng một ngày chạy 2 cái deadline là quá khó ',
