@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'Ui CBĐ là nhất lun đó 🥰. Yêu CBĐ nhiều thiệt sự 😘😘',
     messDesc: 'Tối nay 12h giao thừa, CBĐ lại giao cho HR 3 cái deadline nữa nha :>.',
     btnAccept: 'Okiiiii lun <3. Giao nhiều vào!! Mình thích lắm',
-    messLink: 'https://github.com/zukahai/Moah-HR' //link mess của các bạn. VD: https://m.HR/mai.yeu
-}
+    }
